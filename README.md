@@ -48,10 +48,6 @@ cd bitcoin_price_prediction</code></pre>
 
 <p>The Gradio web interface will launch locally and provide a slider to select the number of future days to predict. The output will display a plot with historical prices, model predictions, and future forecasted prices.</p>
 
-<h2>Hugging Face Model Link</h2>
-<p>The trained LSTM model and associated files are also hosted on Hugging Face for easy access and sharing:</p>
-<p><a href="https://huggingface.co/your-username/bitcoin-lstm-price-predictor">https://huggingface.co/your-username/bitcoin-lstm-price-predictor</a></p>
-<p>You can download or integrate the model weights and code from this repository.</p>
 
 <h2>Code Explanation</h2>
 
@@ -96,3 +92,4 @@ cd bitcoin_price_prediction</code></pre>
     <li>Slider to select days to predict (1 to 30)</li>
     <li>Output: HTML image embedding the matplotlib plot</li>
 </ul>
+
