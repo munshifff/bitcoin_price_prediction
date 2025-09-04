@@ -62,6 +62,7 @@ The Streamlit web interface will launch locally and provide an input to select t
 ## Deployed App
 
 You can access the live app on Hugging Face Spaces here:  
-**[Bitcoin Price Predictor on Hugging Face](https://https://huggingface.co/spaces/Munshifff/bitcoin-price-prediction-lstm)**  
+**[Bitcoin Price Predictor on Hugging Face](https://huggingface.co/spaces/Munshifff/bitcoin-price-prediction-lstm)**  
 
 ---
+
